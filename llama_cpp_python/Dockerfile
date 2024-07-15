@@ -1,0 +1,1 @@
+FROM ghcr.io/abetlen/llama-cpp-python:v0.2.79
